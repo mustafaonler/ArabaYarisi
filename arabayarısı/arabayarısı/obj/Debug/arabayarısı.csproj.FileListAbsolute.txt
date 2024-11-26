@@ -1,0 +1,7 @@
+C:\Users\Onler\source\repos\arabayarısı\arabayarısı\bin\Debug\arabayarısı.exe.config
+C:\Users\Onler\source\repos\arabayarısı\arabayarısı\bin\Debug\arabayarısı.exe
+C:\Users\Onler\source\repos\arabayarısı\arabayarısı\bin\Debug\arabayarısı.pdb
+C:\Users\Onler\source\repos\arabayarısı\arabayarısı\obj\Debug\arabayarısı.csprojAssemblyReference.cache
+C:\Users\Onler\source\repos\arabayarısı\arabayarısı\obj\Debug\arabayarısı.csproj.CoreCompileInputs.cache
+C:\Users\Onler\source\repos\arabayarısı\arabayarısı\obj\Debug\arabayarısı.exe
+C:\Users\Onler\source\repos\arabayarısı\arabayarısı\obj\Debug\arabayarısı.pdb
